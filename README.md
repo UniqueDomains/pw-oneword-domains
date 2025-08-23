@@ -1,0 +1,2 @@
+# pw-oneword-domains
+List of pw one word domain names with availability, expiration date, attractiveness, demand score.
