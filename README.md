@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.PW one word domains](
 
 | Domain        | Status    | Attract. | Demand | Length | Registrar                                               | Created          | Expires          |
 | ------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------- | ---------------- | ---------------- |
-| aaa.pw        | available | 70       | 38%    | 3      |                                                         |                  |                  |
+| aaa.pw        | premium   | 70       | 38%    | 3      |                                                         |                  |                  |
 | abactinal.pw  | available | 50       | 1%     | 9      |                                                         |                  |                  |
 | abaft.pw      | available | 43       | 2%     | 5      |                                                         |                  |                  |
 | abandoned.pw  | available | 58       | 7%     | 9      |                                                         |                  |                  |
