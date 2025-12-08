@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .PW one-word domains still available to buy.
 
-This dataset contains 4,301 .PW one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,660 .PW one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.PW one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=pw-oneword-domains&utm_content=description.top) (4,299) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,15 +13,15 @@ If you want to search & filters the complete database of [.PW one word domains](
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/pw-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/pw-oneword-domains/blob/main/pw.csv"><b>⬇️ CSV (4.3K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/pw-oneword-domains/blob/main/pw.json"><b>⬇️ JSON (4.3K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/pw-oneword-domains/blob/main/pw.csv"><b>⬇️ CSV (4.66K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/pw-oneword-domains/blob/main/pw.json"><b>⬇️ JSON (4.66K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=pw-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.3K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
 | Domain        | Status    | Attract. | Demand | Length | Registrar                                               | Created          | Expires          |
 | ------------- | --------- | -------- | ------ | ------ | ------------------------------------------------------- | ---------------- | ---------------- |
-| aaa.pw        | premium   | 70       | 38%    | 3      |                                                         |                  |                  |
+| aaa.pw        | premium   | 70       | 35%    | 3      |                                                         |                  |                  |
 | abactinal.pw  | available | 50       | 1%     | 9      |                                                         |                  |                  |
 | abaft.pw      | available | 43       | 2%     | 5      |                                                         |                  |                  |
 | abandoned.pw  | available | 58       | 7%     | 9      |                                                         |                  |                  |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.PW one word domains](
 | abatic.pw     | available | 54       | 2%     | 6      |                                                         |                  |                  |
 | abaxial.pw    | available | 54       | 2%     | 7      |                                                         |                  |                  |
 | abbatial.pw   | available | 50       | 1%     | 8      |                                                         |                  |                  |
-| abc.pw        | resell    | 102      | 41%    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) | 03/12/2012 18:51 | 31/05/2034 23:59 |
+| abc.pw        | resell    | 102      | 39%    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) | 03/12/2012 18:51 | 31/05/2034 23:59 |
 | abdicable.pw  | available | 50       | 1%     | 9      |                                                         |                  |                  |
 | abdominal.pw  | available | 82       | 5%     | 9      |                                                         |                  |                  |
 | abdominous.pw | available | 56       | 1%     | 10     |                                                         |                  |                  |
@@ -43,19 +43,19 @@ If you want to search & filters the complete database of [.PW one word domains](
 | aberrant.pw   | available | 74       | 7%     | 8      |                                                         |                  |                  |
 | abeyant.pw    | available | 56       | 2%     | 7      |                                                         |                  |                  |
 | abhorrent.pw  | available | 54       | 3%     | 9      |                                                         |                  |                  |
+| abide.pw      | available | 94       | 15%    | 5      |                                                         |                  |                  |
 | abiding.pw    | available | 106      | 5%     | 7      |                                                         |                  |                  |
 | abient.pw     | available | 54       | 1%     | 6      |                                                         |                  |                  |
-| ability.pw    | available | 92       | 18%    | 7      |                                                         |                  |                  |
+| ability.pw    | available | 92       | 16%    | 7      |                                                         |                  |                  |
 | abject.pw     | available | 94       | 8%     | 6      |                                                         |                  |                  |
 | abkhas.pw     | available | 68       | 1%     | 6      |                                                         |                  |                  |
 | abkhasian.pw  | available | 78       | 1%     | 9      |                                                         |                  |                  |
 | abkhaz.pw     | available | 82       | 2%     | 6      |                                                         |                  |                  |
-| abkhazian.pw  | available | 78       | 1%     | 9      |                                                         |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/pw-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/pw-oneword-domains/blob/main/pw.csv"><b>⬇️ CSV (4.3K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/pw-oneword-domains/blob/main/pw.json"><b>⬇️ JSON (4.3K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/pw-oneword-domains/blob/main/pw.csv"><b>⬇️ CSV (4.66K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/pw-oneword-domains/blob/main/pw.json"><b>⬇️ JSON (4.66K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=pw-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.3K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.PW one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,472       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,125       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,525,538    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 3,618,436    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
