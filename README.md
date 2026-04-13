@@ -1,22 +1,22 @@
-# Available .PW One-Word Domains (8,713)
+# Available .PW One-Word Domains (8,712)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C712%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C713%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C713%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C712%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .pw one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .pw one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 8,712-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **8,713 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 8,712 rows · **Live catalog:** 8,713 domains
+**Public extract:** 8,713 rows · **Live catalog:** 8,712 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/pw`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .PW one-word domain ca
 
 ### Files
 
-- `pw.csv` — public CSV extract (8,712 rows)
-- `pw.json` — public JSON extract (8,712 rows)
+- `pw.csv` — public CSV extract (8,713 rows)
+- `pw.json` — public JSON extract (8,713 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                    |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------- |
-| nationwide.pw | available | $14.98    | —             | 76             | 66     | 10     | namecheap                                    |
-| flash.pw      | resell    | $3,795    | $27.99        | 64             | 67     | 5      | Xiamen ChinaSource Internet Service Co., Ltd |
-| free.pw       | premium   | $3,745.83 | $7,491.66     | 88             | 59     | 4      | name.com                                     |
-| seventeen.pw  | available | $14.98    | —             | 84             | 62     | 9      | namecheap                                    |
-| plus.pw       | resell    | $3,448.85 | $27.99        | 116            | 38     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
-| ace.pw        | premium   | $374.58   | $749.17       | 88             | 57     | 3      | name.com                                     |
-| awesome.pw    | available | $20.48    | —             | 84             | 44     | 7      | namecheap                                    |
-| day.pw        | resell    | $3,321.20 | $3,321.20     | 82             | 34     | 3      | West263 International Limited                |
-| good.pw       | premium   | $1,872.92 | $3,745.83     | 82             | 55     | 4      | name.com                                     |
-| peer.pw       | available | $20.48    | —             | 84             | 36     | 4      | namecheap                                    |
-| language.pw   | resell    | $5,748.85 | $27.99        | 116            | 30     | 8      | Xiamen ChinaSource Internet Service Co., Ltd |
-| zero.pw       | premium   | $1,872.92 | $3,745.83     | 112            | 53     | 4      | name.com                                     |
-| streaming.pw  | available | $14.98    | —             | 88             | 35     | 9      | namecheap                                    |
-| active.pw     | resell    | $3,795    | $27.99        | 104            | 30     | 6      | Xiamen ChinaSource Internet Service Co., Ltd |
-| true.pw       | premium   | $1,872.92 | $3,745.83     | 86             | 52     | 4      | name.com                                     |
-| ethereal.pw   | available | $14.98    | —             | 88             | 31     | 8      | namecheap                                    |
-| prime.pw      | resell    | —         | —             | 76             | 82     | 5      | West263 International Limited                |
-| one.pw        | premium   | $1,872.92 | $3,745.83     | 132            | 50     | 3      | name.com                                     |
-| building.pw   | available | $14.98    | —             | 74             | 31     | 8      | namecheap                                    |
-| mint.pw       | resell    | —         | —             | 72             | 78     | 4      | Xiamen ChinaSource Internet Service Co., Ltd |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| nationwide.pw | available | $14.98    | —             | 76             | 66     | 10     | namecheap                                           |
+| flash.pw      | resell    | $3,795    | $27.99        | 64             | 67     | 5      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| free.pw       | premium   | $3,745.83 | $7,491.66     | 88             | 59     | 4      | name.com                                            |
+| seventeen.pw  | available | $14.98    | —             | 84             | 62     | 9      | namecheap                                           |
+| awesome.pw    | resell    | $20.48    | —             | 84             | 44     | 7      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| ace.pw        | premium   | $374.58   | $749.17       | 88             | 57     | 3      | name.com                                            |
+| peer.pw       | available | $20.48    | —             | 84             | 36     | 4      | namecheap                                           |
+| plus.pw       | resell    | $3,448.85 | $27.99        | 116            | 38     | 4      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| good.pw       | premium   | $1,872.92 | $3,745.83     | 82             | 55     | 4      | name.com                                            |
+| streaming.pw  | available | $14.98    | —             | 88             | 35     | 9      | namecheap                                           |
+| day.pw        | resell    | $3,321.20 | $3,321.20     | 82             | 34     | 3      | West263 International Limited                       |
+| zero.pw       | premium   | $1,872.92 | $3,745.83     | 112            | 53     | 4      | name.com                                            |
+| ethereal.pw   | available | $14.98    | —             | 88             | 31     | 8      | namecheap                                           |
+| language.pw   | resell    | $5,748.85 | $27.99        | 116            | 30     | 8      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| true.pw       | premium   | $1,872.92 | $3,745.83     | 86             | 52     | 4      | name.com                                            |
+| building.pw   | available | $14.98    | —             | 74             | 31     | 8      | namecheap                                           |
+| active.pw     | resell    | $3,795    | $27.99        | 104            | 30     | 6      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| one.pw        | premium   | $1,872.92 | $3,745.83     | 132            | 50     | 3      | name.com                                            |
+| don.pw        | available | $20.48    | —             | 74             | 30     | 3      | namecheap                                           |
+| can.pw        | resell    | —         | —             | 68             | 98     | 3      | PDR Ltd. d/b/a PublicDomainRegistry.com             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,712-row public sample | 8,713 live domains                               |
+| 8,713-row public sample | 8,712 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PW One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PW One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
