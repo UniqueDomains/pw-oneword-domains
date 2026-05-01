@@ -1,10 +1,10 @@
-# Available .PW One-Word Domains (10,983)
+# Available .PW One-Word Domains (11,390)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C983%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C390%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .pw one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **10,983 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,390 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 10,983 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,390 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/pw`  
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
 | CocaCola.pw     | available | $20.48    | —             | 92             | 82     | 9      | namecheap                                               |
 | coins.pw        | resell    | —         | —             | 56             | 41     | 5      | GoDaddy.com, LLC                                        |
-| makers.pw       | premium   | $187.29   | —             | 62             | 67     | 6      | name.com                                                |
+| online.pw       | premium   | $3,745.83 | —             | 70             | 62     | 7      | name.com                                                |
 | RedSox.pw       | available | $20.48    | —             | 72             | 60     | 7      | namecheap                                               |
 | Tools.pw        | resell    | —         | —             | 56             | 40     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| online.pw       | premium   | $3,745.83 | —             | 70             | 62     | 7      | name.com                                                |
-| stories.pw      | available | $20.48    | —             | 58             | 36     | 7      | namecheap                                               |
 | agents.pw       | premium   | $187.29   | —             | 56             | 50     | 6      | name.com                                                |
-| letsgo.pw       | available | $20.48    | —             | 57             | 31     | 7      | namecheap                                               |
+| stories.pw      | available | $20.48    | —             | 58             | 36     | 7      | namecheap                                               |
+| webs.pw         | resell    | —         | —             | 56             | 21     | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
 | robots.pw       | premium   | $749.17   | —             | 62             | 47     | 6      | name.com                                                |
-| commonground.pw | available | $20.48    | —             | 74             | 28     | 13     | namecheap                                               |
-| jobs.pw         | premium   | $1,872.92 | —             | 79             | 42     | 4      | name.com                                                |
-| KeyWest.pw      | available | $20.48    | —             | 76             | 26     | 8      | namecheap                                               |
+| letsgo.pw       | available | $20.48    | —             | 57             | 31     | 7      | namecheap                                               |
 | justin.pw       | premium   | $374.58   | —             | 58             | 38     | 7      | name.com                                                |
-| destination.pw  | available | $20.48    | —             | 90             | 25     | 11     | namecheap                                               |
+| commonground.pw | available | $20.48    | —             | 74             | 28     | 13     | namecheap                                               |
 | Cats.pw         | premium   | $7,000    | $7,000        | 59             | 33     | 4      | namecheap                                               |
-| inhouse.pw      | available | $20.48    | —             | 70             | 23     | 8      | namecheap                                               |
+| KeyWest.pw      | available | $20.48    | —             | 76             | 26     | 8      | namecheap                                               |
 | William.pw      | premium   | $700      | $700          | 74             | 31     | 7      | namecheap                                               |
-| stadia.pw       | available | $20.48    | —             | 66             | 22     | 6      | namecheap                                               |
+| destination.pw  | available | $20.48    | —             | 90             | 25     | 11     | namecheap                                               |
 | maps.pw         | premium   | $1,872.92 | —             | 56             | 31     | 4      | name.com                                                |
+| stadia.pw       | available | $20.48    | —             | 66             | 22     | 6      | namecheap                                               |
+| videos.pw       | premium   | $3,745.83 | —             | 52             | 30     | 6      | name.com                                                |
+| treeoflife.pw   | available | $20.48    | —             | 88             | 21     | 12     | namecheap                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 10,983 live domains                              |
+| 1,000-row public sample | 11,390 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PW One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PW One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
