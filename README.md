@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .pw one-word domains from U
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,414 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,414 domains · **Median ask:** $157.97 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,414 domains · **Median ask:** $154.28 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-13  
+**Last updated:** 2026-05-15  
 **Canonical page:** `https://unique.domains/domains/tld/pw`  
 **Best for:** founders, investors, studios
 
@@ -73,6 +73,7 @@ print(df.head())
 | hangon.pw   | available | $20.48    | —             | 82             | 6      | 7      | namecheap                                               |
 | pierogi.pw  | available | $20.48    | —             | 82             | 7      | 7      | namecheap                                               |
 | dogsick.pw  | available | $20.48    | —             | 90             | 1      | 7      | namecheap                                               |
+| speakto.pw  | premium   | —         | —             | 80             | 6      | 8      | —                                                       |
 | rumcake.pw  | available | $20.48    | —             | 81             | 3      | 8      | namecheap                                               |
 | FabFour.pw  | available | $3.99     | $24.49        | 82             | 3      | 8      | namesilo                                                |
 | lightup.pw  | available | $20.48    | —             | 82             | 15     | 8      | namecheap                                               |
@@ -83,7 +84,6 @@ print(df.head())
 | RedSox.pw   | available | $20.48    | —             | 72             | 60     | 7      | namecheap                                               |
 | Tools.pw    | resell    | —         | —             | 56             | 40     | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | agents.pw   | premium   | $187.29   | —             | 56             | 50     | 6      | name.com                                                |
-| stories.pw  | available | $20.48    | —             | 58             | 36     | 7      | namecheap                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PW One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PW One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
