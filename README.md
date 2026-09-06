@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .pw one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 18,989 domains · **Median ask:** $88.79 · **High-demand under $2,500:** 31
 
-**Last updated:** 2026-09-05
+**Last updated:** 2026-09-06
 **Canonical page:** `https://unique.domains/domains/tld/pw`
 **Best for:** founders, investors, studios
 
@@ -64,10 +64,6 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| great.pw   | premium   | $374.58   | —             | high           | low    | 5      | name.com                                            |
-| time.pw    | premium   | $1,872.92 | —             | high           | medium | 4      | name.com                                            |
-| bang.pw    | premium   | $74.92    | —             | high           | low    | 4      | name.com                                            |
-| special.pw | available | $20.48    | —             | high           | low    | 7      | namecheap                                           |
 | arid.pw    | available | $6.98     | $20.48        | low            | low    | 4      | namecheap                                           |
 | consent.pw | resell    | $3.99     | $24.49        | medium         | low    | 7      | GoDaddy.com, LLC                                    |
 | arc.pw     | premium   | $74.92    | $149.83       | medium         | medium | 3      | name.com                                            |
@@ -84,6 +80,10 @@ print(df.head())
 | own.pw     | resell    | —         | —             | high           | high   | 3      | PDR Ltd. d/b/a PublicDomainRegistry.com             |
 | dip.pw     | premium   | $3,878.95 | $27.99        | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | lace.pw    | available | $3.99     | $24.49        | high           | low    | 4      | namesilo                                            |
+| sum.pw     | resell    | —         | —             | medium         | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| DIY.pw     | premium   | $749.17   | —             | high           | low    | 3      | name.com                                            |
+| leak.pw    | available | $3.99     | $24.49        | medium         | low    | 4      | namesilo                                            |
+| tip.pw     | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PW One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PW One-Word Domains*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
