@@ -1,10 +1,10 @@
-# Available .PW One-Word Domains (29,729)
+# Available .PW One-Word Domains (30,598)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C729%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C598%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .pw one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,729 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,598 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,729 domains · **Median ask:** $71.70 · **High-demand under $2,500:** 24
+**Public extract:** 1,000 rows · **Live catalog:** 30,598 domains · **Median ask:** $72.07 · **High-demand under $2,500:** 23
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/tld/pw`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| time.pw      | premium   | $3,450    | $3,450        | high           | medium | 4      | namesilo                                            |
+| don.pw       | available | $3.99     | $24.49        | high           | low    | 3      | namesilo                                            |
+| consent.pw   | resell    | $3.99     | $24.49        | high           | low    | 7      | GoDaddy.com, LLC                                    |
+| arc.pw       | premium   | $74.92    | $149.83       | high           | medium | 3      | name.com                                            |
+| xcl.pw       | available | $3.99     | $24.49        | medium         | low    | 3      | namesilo                                            |
 | excursion.pw | resell    | $3.99     | $24.49        | high           | low    | 9      | namesilo                                            |
-| bang.pw      | premium   | $116      | $116          | high           | low    | 4      | namesilo                                            |
-| special.pw   | available | $20.48    | —             | high           | low    | 7      | namecheap                                           |
-| own.pw       | resell    | —         | —             | high           | high   | 3      | PDR Ltd. d/b/a PublicDomainRegistry.com             |
-| arid.pw      | available | $6.98     | $20.48        | low            | low    | 4      | namecheap                                           |
-| brag.pw      | resell    | $3.99     | $24.49        | medium         | low    | 4      | namesilo                                            |
-| arc.pw       | premium   | $74.92    | $149.83       | medium         | medium | 3      | name.com                                            |
-| bead.pw      | available | $3.99     | $24.49        | high           | low    | 4      | namesilo                                            |
-| fuzzy.pw     | resell    | $3.99     | $24.49        | low            | low    | 5      | namesilo                                            |
+| are.pw       | premium   | $374.58   | —             | high           | low    | 3      | name.com                                            |
+| arid.pw      | available | $6.98     | $20.48        | high           | low    | 4      | namecheap                                           |
+| and.pw       | resell    | —         | —             | high           | medium | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | bid.pw       | premium   | $749.17   | —             | high           | low    | 3      | name.com                                            |
-| clxv.pw      | available | $3.99     | $24.49        | low            | low    | 4      | namesilo                                            |
-| loose.pw     | resell    | $20.48    | —             | low            | low    | 5      | namecheap                                           |
-| big.pw       | premium   | $1,300    | $1,300        | medium         | low    | 3      | namecheap                                           |
-| cxlv.pw      | available | $3.99     | $24.49        | low            | low    | 4      | namesilo                                            |
-| busted.pw    | resell    | $3.99     | $24.49        | low            | low    | 6      | namesilo                                            |
+| bead.pw      | available | $3.99     | $24.49        | high           | low    | 4      | namesilo                                            |
+| cap.pw       | resell    | —         | —             | high           | low    | 3      | West263 International Limited                       |
+| boy.pw       | premium   | $749.17   | —             | high           | low    | 3      | name.com                                            |
+| choc.pw      | available | $3.99     | $24.49        | high           | low    | 4      | namesilo                                            |
+| her.pw       | resell    | —         | —             | high           | low    | 3      | PDR Ltd. d/b/a PublicDomainRegistry.com             |
+| con.pw       | premium   | $374.58   | —             | high           | low    | 3      | name.com                                            |
+| clxv.pw      | available | $3.99     | $24.49        | medium         | low    | 4      | namesilo                                            |
+| hug.pw       | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | cow.pw       | premium   | $374.58   | —             | high           | low    | 3      | name.com                                            |
-| lace.pw      | available | $3.99     | $24.49        | high           | low    | 4      | namesilo                                            |
-| formal.pw    | resell    | $3.99     | $24.49        | medium         | low    | 6      | namesilo                                            |
-| dip.pw       | premium   | $3,878.95 | $27.99        | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| cxlv.pw      | available | $3.99     | $24.49        | high           | low    | 4      | namesilo                                            |
+| ivy.pw       | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,729 live domains                        |
+| 1,000-row public sample | 30,598 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 24 high-demand names under $2,500          |
+| Basic exported fields   | 23 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PW One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PW One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
