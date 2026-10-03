@@ -1,10 +1,10 @@
-# Available .PW One-Word Domains (27,450)
+# Available .PW One-Word Domains (29,297)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C450%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C297%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .pw one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,450 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **29,297 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,450 domains · **Median ask:** $129.22 · **High-demand under $2,500:** 62
+**Public extract:** 1,000 rows · **Live catalog:** 29,297 domains · **Median ask:** $124.50 · **High-demand under $2,500:** 67
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/pw`
 **Best for:** founders, investors, studios
 
@@ -66,23 +66,23 @@ print(df.head())
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | cob.pw    | available | $3.99     | $24.49        | high           | low    | 3      | namesilo         |
 | rail.pw   | resell    | $953.52   | —             | high           | low    | 4      | name.com         |
-| ari.pw    | premium   | $517.50   | $517.50       | high           | medium | 3      | spaceship        |
+| bum.pw    | premium   | $74.92    | $149.83       | medium         | low    | 3      | name.com         |
 | csx.pw    | available | $3.99     | $24.49        | high           | low    | 3      | namesilo         |
 | wash.pw   | resell    | $3.99     | $24.49        | high           | low    | 4      | namesilo         |
-| bum.pw    | premium   | $74.92    | $149.83       | medium         | low    | 3      | name.com         |
+| cbo.pw    | premium   | $258.75   | $258.75       | high           | low    | 3      | spaceship        |
 | adps.pw   | available | $3.99     | $24.49        | medium         | low    | 4      | namesilo         |
 | lobby.pw  | resell    | $3.99     | $24.49        | high           | low    | 5      | namesilo         |
-| cbo.pw    | premium   | $258.75   | $258.75       | high           | low    | 3      | spaceship        |
+| cfo.pw    | premium   | $187.29   | $374.58       | high           | low    | 3      | name.com         |
 | akee.pw   | available | $6.98     | $20.48        | medium         | low    | 4      | namecheap        |
 | before.pw | resell    | $3.99     | $24.49        | high           | low    | 6      | GoDaddy.com, LLC |
-| ceo.pw    | premium   | $650      | $650          | high           | low    | 3      | namecheap        |
+| cnc.pw    | premium   | $500      | —             | high           | low    | 3      | unstoppable      |
 | barb.pw   | available | $3.99     | $24.49        | high           | low    | 4      | namesilo         |
 | devour.pw | resell    | $3.99     | $24.49        | high           | low    | 6      | namesilo         |
-| cfo.pw    | premium   | $187.29   | $374.58       | high           | low    | 3      | name.com         |
+| csp.pw    | premium   | $55       | $110          | high           | low    | 3      | dynadot          |
 | bare.pw   | available | $3.99     | $24.49        | high           | low    | 4      | namesilo         |
 | gently.pw | resell    | $20.48    | —             | high           | low    | 6      | namecheap        |
-| cnc.pw    | premium   | $500      | —             | high           | low    | 3      | unstoppable      |
-| bred.pw   | available | $3.99     | $24.49        | high           | low    | 4      | namesilo         |
+| dma.pw    | premium   | $250      | —             | high           | low    | 3      | unstoppable      |
+| boaz.pw   | available | $3.99     | $24.49        | medium         | low    | 4      | namesilo         |
 | philip.pw | resell    | $3.99     | $24.49        | high           | low    | 6      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,450 live domains                        |
+| 1,000-row public sample | 29,297 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 62 high-demand names under $2,500          |
+| Basic exported fields   | 67 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PW One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PW One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
